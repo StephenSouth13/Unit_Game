@@ -1,5 +1,5 @@
 VTC Student Test Game Unit Game
-![alt text](/background/vtclogo.png)
+![alt text](/img/vtclogo.png)
 
 ---
 Test Game Unit Game
